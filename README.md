@@ -1,2 +1,2 @@
-# uppm-formula-repository-netbsd-x86_64
+# uppm-formula-repository-netbsd-amd64
 the offical formula repository for uppm
