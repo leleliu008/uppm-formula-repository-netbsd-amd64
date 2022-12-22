@@ -1,0 +1,5 @@
+summary: a command-line tool for downloading RTMP streaming media
+webpage: https://rtmpdump.mplayerhq.hu
+version: 2.4+20151223
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/rtmpdump-2.4+20151223-netbsd-x86_64.tar.xz
+bin-sha: 00dca6f74c3ebd7d45a8760a90ceabf8a89bb88d1fed5799414116b550a5ba44

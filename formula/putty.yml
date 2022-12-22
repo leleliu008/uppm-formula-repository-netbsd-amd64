@@ -1,0 +1,5 @@
+summary: Implementation of Telnet and SSH
+webpage: https://www.chiark.greenend.org.uk/~sgtatham/putty/
+version: 0.77
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/putty-0.77-netbsd-x86_64.tar.xz
+bin-sha: f6105c30a78edba6fea31d0648a980757f7970244abba4d388d7642255b18046

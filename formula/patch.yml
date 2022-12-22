@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.7.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/patch-2.7.6-netbsd-x86_64.tar.xz
+bin-sha: ca41a22a688fcad2f9c6bacf8dab1865bd1a457259c977c04cf6ae7096a22416

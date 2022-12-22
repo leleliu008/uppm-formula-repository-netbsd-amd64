@@ -1,0 +1,5 @@
+summary: Small build system for use with gyp or CMake
+webpage: https://ninja-build.org/
+version: 1.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/ninja-1.11.0-netbsd-x86_64.tar.xz
+bin-sha: c3fc8864a0ab206121cbd71c285711596fb40c373b8d30bd75f974f70d9f4835

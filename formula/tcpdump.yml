@@ -1,0 +1,5 @@
+summary: a command-line tool to analyze packet(TCP/IP)
+webpage: https://www.tcpdump.org/
+version: 4.99.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/tcpdump-4.99.1-netbsd-x86_64.tar.xz
+bin-sha: 38f909ddf851860327d649f40e51b56a047904b07efa470e7c2f868d28132970

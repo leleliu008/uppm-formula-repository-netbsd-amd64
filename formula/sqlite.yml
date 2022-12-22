@@ -1,0 +1,5 @@
+summary: command-line interface for SQLite
+webpage: https://sqlite.org/
+version: 3.39.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/sqlite-3.39.2-netbsd-x86_64.tar.xz
+bin-sha: 4f8b53c542f553ce76c2ee4d59a5b4a5b7e1b67f28c16be638f3460983098fb6

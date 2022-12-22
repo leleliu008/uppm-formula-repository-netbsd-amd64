@@ -1,0 +1,5 @@
+summary: Bourne-Again SHell, a UNIX command interpreter
+webpage: https://www.gnu.org/software/bash
+version: 5.1.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/bash-5.1.16-netbsd-x86_64.tar.xz
+bin-sha: f74631b5d52c18db9dc600ad1eb22e79567e7554c7b1c958f23a8bc276b482f9

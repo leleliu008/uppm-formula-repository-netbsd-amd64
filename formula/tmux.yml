@@ -1,0 +1,5 @@
+summary: Terminal multiplexer
+webpage: https://tmux.github.io
+version: 3.3a
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/tmux-3.3a-netbsd-x86_64.tar.xz
+bin-sha: 9ddf1b4353a8b35018ccf28117d594ea5bdb10dc216d36c0ddd937fa72877c6e

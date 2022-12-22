@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.34
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/gtar-1.34-netbsd-x86_64.tar.xz
+bin-sha: e5c632f89dfaafd0e59cad83485888e0eb50d0c9f1b3d3f0c7f206efaf2cdcd0

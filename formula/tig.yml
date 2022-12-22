@@ -1,0 +1,5 @@
+summary: Text interface for Git repositories
+webpage: https://jonas.github.io/tig
+version: 2.5.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/tig-2.5.7-netbsd-x86_64.tar.xz
+bin-sha: 50b1908d47cd7ad09d46868c141a0b948e6d5d2352178e52b3360def6a7ac8dd

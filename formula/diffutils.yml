@@ -1,0 +1,5 @@
+summary: File comparison utilities
+webpage: https://www.gnu.org/software/diffutils
+version: 3.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/diffutils-3.8-netbsd-x86_64.tar.xz
+bin-sha: 5dcc860fd29b67bea870d3e6a98a59105984e876c6ba7f27727079d2e3a7c327

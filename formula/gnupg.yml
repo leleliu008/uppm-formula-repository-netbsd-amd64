@@ -1,0 +1,5 @@
+summary: GNU Pretty Good Privacy (PGP) package
+webpage: https://www.gnupg.org
+version: 2.3.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/gnupg-2.3.7-netbsd-x86_64.tar.xz
+bin-sha: 7ab3354bccc6e22725ac2ef65c60727003d5fa9e7625dd30120fb43546c84cb6

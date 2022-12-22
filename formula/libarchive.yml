@@ -1,0 +1,5 @@
+summary: Multi-format archive and compression library
+webpage: https://www.libarchive.org/
+version: 3.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/libarchive-3.6.1-netbsd-x86_64.tar.xz
+bin-sha: 28edef37f1447079fc6c3dab88236f12ef58741814c7a9326170b63d9faee531

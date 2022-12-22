@@ -1,0 +1,5 @@
+summary: PNG image optimizing utility
+webpage: https://pngquant.org
+version: 2.17.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/pngquant-2.17.0-netbsd-x86_64.tar.xz
+bin-sha: 93fa0d14c625e9efe524c4d6ceacdf645746093b20ab0a9ab2f3dd9ff27dee9f

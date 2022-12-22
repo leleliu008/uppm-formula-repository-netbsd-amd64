@@ -1,0 +1,5 @@
+summary: Configurable static site generator
+webpage: https://gohugo.io
+version: 0.101.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/hugo-0.101.0-netbsd-x86_64.tar.xz
+bin-sha: a30258a5d58e067ca4d22b39c8bd1358618822d062f9e81a454109caa09a683f

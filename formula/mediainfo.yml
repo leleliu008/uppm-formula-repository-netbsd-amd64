@@ -1,0 +1,5 @@
+summary: Unified display of technical and tag data for audio/video
+webpage: https://mediaarea.net
+version: 22.06
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/mediainfo-22.06-netbsd-x86_64.tar.xz
+bin-sha: defdc8b1385df9dfddf6e494c55c5ebf9d9864b350777fdd2953007b71958812

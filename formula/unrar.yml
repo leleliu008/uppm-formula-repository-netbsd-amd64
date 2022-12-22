@@ -1,0 +1,5 @@
+summary: Extract, view, and test RAR archives
+webpage: https://www.rarlab.com
+version: 6.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/unrar-6.1.7-netbsd-x86_64.tar.xz
+bin-sha: 98225e7a84720a8dd5975c5809d1e2fd362fdb2d092b723391d0b5c80408fd01

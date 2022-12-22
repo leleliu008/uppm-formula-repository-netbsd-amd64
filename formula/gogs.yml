@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.12.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/gogs-0.12.10-netbsd-x86_64.tar.xz
+bin-sha: 9c2d39bb3369107c1eef9153b836277d94c365cbbfe0290c949cc2243e41ea65
