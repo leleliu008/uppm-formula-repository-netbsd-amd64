@@ -1,4 +1,4 @@
-# uppm-formula-repository-linux-x86_64
+# uppm-formula-repository-netbsd-amd64
 the offical formula repository for [uppm](https://github.com/leleliu008/uppm)
 
 ## what's formula
