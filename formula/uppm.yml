@@ -1,5 +1,5 @@
 summary: Universal Prebuild Package Manager
 webpage: https://github.com/leleliu008/uppm.git
-version: 2022.09.22
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/uppm-2022.09.22-netbsd-x86_64.tar.xz
-bin-sha: 58ab0b5dc2d44ac958edf97b01903690a2e3f94992cf5888ab1207de5e6d1b5d
+version: 0.10.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/uppm-0.10.1-netbsd-amd64.tar.xz
+bin-sha: b00a495f7eceee459d335bd103c886332e25dd790be5c3ce032eb501a2e7e9a6

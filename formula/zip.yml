@@ -1,0 +1,5 @@
+summary: Compression and file packaging/archive utility
+webpage: https://infozip.sourceforge.io/Zip.html
+version: 3.0.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-amd64/releases/download/2022.12.22/zip-3.0.11-netbsd-amd64.tar.xz
+bin-sha: e38b4a88eca41bb757fc2c6884e1e89095117f98285f3196498a7df92cc270de
