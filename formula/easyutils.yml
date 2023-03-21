@@ -1,0 +1,5 @@
+summary: a collections of easy to use command-line utilities
+webpage: https://github.com/leleliu008/C-examples.git
+version: 2023.03.20
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-amd64/releases/download/2022.12.22/easyutils-2023.03.20-netbsd-amd64.tar.xz
+bin-sha: 3366b9f22c110a0c03439ac7e865b79fd7085387fcb1279d83f6141e32b782f2
