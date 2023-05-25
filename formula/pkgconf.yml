@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: http://pkgconf.org
-version: 1.9.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/pkgconf-1.9.3-netbsd-x86_64.tar.xz
-bin-sha: e2009dfbd981cb8f596e58c0e22fbbc7624071685ab00c149706247e00976cc5
+version: 1.9.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/pkgconf-1.9.5-netbsd-amd64.tar.xz
+bin-sha: 41acbc6dbd054b162f1db4e93ae40b544415518311d4fe69d7113be80e32ae80
