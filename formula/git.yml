@@ -1,5 +1,5 @@
 summary: Distributed revision control system
 webpage: https://git-scm.com/
-version: 2.37.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/git-2.37.3-netbsd-x86_64.tar.xz
-bin-sha: 5f227dad5c66f7bb3f11c169afd31cee7ba5fcd24b5fa64604283653b9efa7d4
+version: 2.41.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-x86_64/releases/download/2022.12.22/git-2.41.0-netbsd-amd64.tar.xz
+bin-sha: a34c801e2a277263ca34507d9a4a8f2484312200c7c57d3aa78bcb01f078059f
